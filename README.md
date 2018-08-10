@@ -1,2 +1,2 @@
-# KeepRite-AC-IR-Control
+# KeepRite AC IR Control
 Control KeepRite AC with IR via SmartThings
